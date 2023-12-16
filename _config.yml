@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Camilla Reis"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : ""
+  location         : "Austria"
+  employer         : "Graz University of Technology"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :  camilla.reis@tugraz.at
   researchgate     :  "https://www.researchgate.net/profile/Camilla-Reis"
   uri              :
