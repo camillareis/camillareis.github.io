@@ -83,7 +83,7 @@ author:
   name             : "Camilla Reis"
   avatar           : "profile.png"
   bio              : "University Assistant and Doctoral Student"
-  location         : "Graz University of Technology, Austria"
+  location         : "Graz, Austria"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
@@ -185,7 +185,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
