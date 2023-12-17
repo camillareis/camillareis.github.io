@@ -33,21 +33,32 @@ Business Academy in Bludenz
 # *Work experience*
 
 * **University Assistant** | since Dezember 2021 <br />
-   at Graz University of Technology <br />
-   details see teaching and publications & research
+  at Graz University of Technology <br />
+  details see teaching and publications & research
 
 * **Sales and Marketing Assistant** | October 2018 - May 2019 <br />
-  at wirecube GmbH
+  at wirecube GmbH in Graz <br />
+  Responsibilites:
+  * x
+  * x
+  * x
 
-* **Android Developer** | July - August 2018 <br />
-  at wirecube GmbH <br />
+* **Android Developement** | July - August 2018 <br />
+  at wirecube GmbH in Graz <br />
+  Responsibilites:
+  * x
+  * x
+  * x
 
+* **Technical Support** | June - July 2017 & 2018 <br />
+  at the Fifteen Seconds Festival in Graz
 
-* Fifteen Seconds Festival <br />
-  Technical Support for the Fifteen Seconds Festival | part-time | June-July 2017 & 2018
-
-* Liebherr <br />
-  Software Developer for IT/ERP BAAN | internship | August-September 2016
+* **Software Developer for IT/ERP BAAN** | August - September 2016 <br />
+  Liebherr, Nenzing <br />
+  Responsibilites:
+  * x
+  * x
+  * x
 
 ---
 
