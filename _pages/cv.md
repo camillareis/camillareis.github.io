@@ -18,7 +18,7 @@ redirect_from:
 
 ### Master Studies Sofwareengineering - Management
   2018 - 2021 | GPA 3.6 <br />
-  Master Thesis: *Technology-based Business Models - Literature Review and Examples* at the Institut of General Management and Organisation
+  Master Thesis: *Technology-based Business Models - Literature Review and Examples* at the Institut of General Management and Organisation <br />
   selected catalogues: Web and Data Science, Management and Strategy
 
 ### Bachelor Studies Softwareengineering - Management
@@ -32,14 +32,16 @@ Business Academy in Bludenz
 
 # *Work experience*
 
-* Graz University of Technology <br />
-  University Assistant | full-time | since December 2021
+* **University Assistant** | since Dezember 2021 <br />
+   at Graz University of Technology <br />
+   details see teaching and publications & research
 
-* wirecube GmbH <br />
-  Sales and Marketing Assistant | part-time | October 2018 - May 2019
-    x
-  Android Developer | internship | July - August 2018
-    x
+* **Sales and Marketing Assistant** | October 2018 - May 2019 <br />
+  at wirecube GmbH
+
+* **Android Developer** | July - August 2018 <br />
+  at wirecube GmbH <br />
+
 
 * Fifteen Seconds Festival <br />
   Technical Support for the Fifteen Seconds Festival | part-time | June-July 2017 & 2018
