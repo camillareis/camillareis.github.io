@@ -9,39 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
-<!-- * B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-Graz, University of Technology
-### Doctoral School Techno-Economics
+### Education
+
+Graz University of Technology
+##### Doctoral School Techno-Economics
   2022 - 2025 (expected)
 
-### Master Studies Sofwareengineering - Management
-  2018 - 2021 | GPA 3.6
-  Master Thesis: Technology-based Business Models - Literature Review and Examples
-  at the Institut of General Management and Organisation
+##### Master Studies Sofwareengineering - Management
+  2018 - 2021 | GPA 3.6 <br />
+  Master Thesis: *Technology-based Business Models - Literature Review and Examples* at the Institut of General Management and Organisation
 
-  selected catalogues: Web and Data Science, 
+  selected catalogues: Web and Data Science, Management and Strategy
 
-### Bachelor Studies Softwareengineering - Management
-  2014 - 2018 | GPA 3.1
-  Bachelor Thesis: Android Bluetooth Credential Store
-  at the Institut of Applied Information Processing and Communications
+##### Bachelor Studies Softwareengineering - Management
+  2014 - 2018 | GPA 3.1 <br />
+  Bachelor Thesis: *Android Bluetooth Credential* Store at the Institut of Applied Information Processing and Communications
 
+Business Academy in Bludenz
+##### 
 
-
-## Work experience
+### Work experience
 
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-<!-- * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
   
 ## Skills
 
