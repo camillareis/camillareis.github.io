@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-## *Education*
+---
+
+# *Education*
 
 ### Doctoral School Techno-Economics
   2022 - 2025 (expected)
@@ -28,26 +30,37 @@ Business Academy in Bludenz
 
 ---
 
-## *Work experience*
+# *Work experience*
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Graz University of Technology <br />
+  University Assistant | full-time | since December 2021
+
+* wirecube GmbH <br />
+  Sales and Marketing Assistant | part-time | October 2018 - May 2019
+    x
+  Android Developer | internship | July - August 2018
+    x
+
+* Fifteen Seconds Festival <br />
+  Technical Support for the Fifteen Seconds Festival | part-time | June-July 2017 & 2018
+
+* Liebherr <br />
+  Software Developer for IT/ERP BAAN | internship | August-September 2016
 
 ---
 
-## *Skills*
+# *Skills*
 
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Project Management and Organization
+
 
 ---
 
+# *Free Time and Personal Interests*
+
+* Reading - Memoirs and Fiction
+* Sewing 
+* Hiking and Yoga
 
 
 <!-- Publications
