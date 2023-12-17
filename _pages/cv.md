@@ -12,23 +12,28 @@ redirect_from:
 ### Education
 
 Graz University of Technology
-##### Doctoral School Techno-Economics
+### Doctoral School Techno-Economics
   2022 - 2025 (expected)
 
-##### Master Studies Sofwareengineering - Management
+### Master Studies Sofwareengineering - Management
   2018 - 2021 | GPA 3.6 <br />
   Master Thesis: *Technology-based Business Models - Literature Review and Examples* at the Institut of General Management and Organisation
 
   selected catalogues: Web and Data Science, Management and Strategy
 
-##### Bachelor Studies Softwareengineering - Management
+### Bachelor Studies Softwareengineering - Management
   2014 - 2018 | GPA 3.1 <br />
   Bachelor Thesis: *Android Bluetooth Credential* Store at the Institut of Applied Information Processing and Communications
 
 Business Academy in Bludenz
-##### 
+# test 1
+## test 2
+### test 3
+#### test 4
+##### test 5
+###### test 6
 
-### Work experience
+## Work experience
 
 * Summer 2015: Research Assistant
   * Github University
