@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Education
+## *Education*
 
 Graz University of Technology
 ### Doctoral School Techno-Economics
@@ -33,7 +33,7 @@ Business Academy in Bludenz
 ##### test 5
 ###### test 6
 
-## Work experience
+## *Work experience*
 
 * Summer 2015: Research Assistant
   * Github University
