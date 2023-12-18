@@ -14,7 +14,8 @@ redirect_from:
 # *Education*
 
 ### Doctoral School Techno-Economics
-  2022 - 2025 (expected)
+  2022 - 2025 (expected) <br />
+  Doctoral Thesis: *Achieving Contextual Ambidexterity in Software Development Companies* 
 
 ### Master Studies Sofwareengineering - Management
   2018 - 2021 | GPA 3.6 <br />
