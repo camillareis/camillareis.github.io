@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-# *Education*
+## *Education*
 
 ### Doctoral School Techno-Economics
   2022 - 2025 (expected) <br />
