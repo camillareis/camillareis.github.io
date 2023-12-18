@@ -27,7 +27,8 @@ redirect_from:
   Bachelor Thesis: *Android Bluetooth Credential* Store at the Institut of Applied Information Processing and Communications
 
 
-Business Academy in Bludenz
+### Business Academy in Bludenz
+  2008 - 2013 | A-Levels in International Marketing and Economics
 
 ---
 
@@ -40,14 +41,12 @@ Business Academy in Bludenz
 * **Sales and Marketing Assistant** | October 2018 - May 2019 <br />
   at wirecube GmbH in Graz <br />
   Responsibilites:
-  * x
-  * x
-  * x
+  * Planning and coordination for various social media platforms 
+  * Design of advertising materials
 
 * **Android Developement** | July - August 2018 <br />
   at wirecube GmbH in Graz <br />
   Responsibilites:
-  * x
   * x
   * x
 
@@ -57,20 +56,29 @@ Business Academy in Bludenz
 * **Software Developer for IT/ERP BAAN** | August - September 2016 <br />
   Liebherr, Nenzing <br />
   Responsibilites:
-  * x
-  * x
-  * x
+  * Design and implementation of new software components for BaaN 
+  * Go-live of new applications according to Change Management Process
 
 ---
 
-# *Skills*
+### *Technical Skills*
+  * Linux | MacOS | MS Windows
+  * MS Office | LaTeX
+  * Search Engine Optimization
+  * Project Management and Organization
 
-* Project Management and Organization
+### *Soft Skills*
+  * Teamwork and Coordination
+
+### *Languages*
+  * German - native
+  * English - native
+  * Spanish - B2
 
 
 ---
 
-# *Free Time and Personal Interests*
+## *Free Time and Personal Interests*
 
 * Reading - Memoirs and Fiction
 * Sewing 
