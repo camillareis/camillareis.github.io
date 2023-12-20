@@ -36,7 +36,7 @@ redirect_from:
 
 * **University Assistant** | since Dezember 2021 <br />
   at Graz University of Technology <br />
-  details see teaching and publications & research
+  for more details see [teaching](https://camillareis.github.io/teaching/) and [publications & research](https://camillareis.github.io/reserach-publications/)
 
 * **Sales and Marketing Assistant** | October 2018 - May 2019 <br />
   at wirecube GmbH in Graz <br />
@@ -47,11 +47,13 @@ redirect_from:
 * **Android Developement** | July - August 2018 <br />
   at wirecube GmbH in Graz <br />
   Responsibilites:
-  * x
+  * 
   * x
 
 * **Technical Support** | June - July 2017 & 2018 <br />
-  at the Fifteen Seconds Festival in Graz
+  at the Fifteen Seconds Festival in Graz <br />
+  *  Technical set-up of registration booths, devices and technical equipment before and during the festival
+  *  Point of contact for technical support for the exihibitors
 
 * **Software Developer for IT/ERP BAAN** | August - September 2016 <br />
   Liebherr, Nenzing <br />
@@ -62,27 +64,28 @@ redirect_from:
 ---
 
 ### *Technical Skills*
-  * Linux | MacOS | MS Windows
-  * MS Office | LaTeX
+  * Linux • MacOS • MS Windows
+  * MS Office • LaTeX
   * Search Engine Optimization
   * Project Management and Organization
+  * 
 
 ### *Soft Skills*
   * Teamwork and Coordination
+  * Intercultural Communication and 
 
 ### *Languages*
   * German - native
   * English - native
-  * Spanish - B2
+  * Spanish - level B2
 
 
 ---
 
 ## *Free Time and Personal Interests*
-
-* Reading - Memoirs and Fiction
-* Sewing 
-* Hiking and Yoga
+  * Reading - Memoirs and Fiction
+  * Sewing 
+  * Hiking and Yoga
 
 
 <!-- Publications
