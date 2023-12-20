@@ -35,10 +35,12 @@ h1 {
 
 h2 {
   font-size: $type-size-4;
+  color: $primary-color;
 }
 
 h3 {
   font-size: $type-size-5;
+  color: mix(#fff, $primary-color, 25%);
 }
 
 h4 {

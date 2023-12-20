@@ -32,7 +32,7 @@ redirect_from:
   written exam subjects: <br />
   * German 
   * English including business working language
-  * Colloquium of economics and accounting
+  * Colloquium of economics and accounting <br />
   oral exam subjects: <br />
   * International marketing and economics
   * Political education and law
