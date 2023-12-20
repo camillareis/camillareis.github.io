@@ -75,18 +75,17 @@ redirect_from:
   * MS Office • LaTeX
   * Search Engine Optimization
   * Project Management and Organization
-  * 
+
 
 ### *Soft Skills*
   * Teamwork and Coordination
   * Intercultural Communication and Collaboration
-  * 
+
 
 ### *Languages*
   * German - native
   * English - native
   * Spanish - level B2
-
 
 ---
 
