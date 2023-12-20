@@ -39,31 +39,28 @@ redirect_from:
 
 ## *Work experience*
 
-* **University Assistant** | since Dezember 2021 <br />
-  at Graz University of Technology <br />
+### University Assistant
+  Graz University of Technology | since Dezember 2021 <br />
   for more details see [teaching](https://camillareis.github.io/teaching/) and [publications & research](https://camillareis.github.io/reserach-publications/)
 
-* **Sales and Marketing Assistant** | October 2018 - May 2019 <br />
-  at wirecube GmbH in Graz <br />
+### Sales and Marketing Assistant
+  wirecube GmbH in Graz | October 2018 - May 2019 <br />
   Responsibilites:
   * Planning and coordination for various social media platforms 
   * Design of advertising materials
 
-
-* **Android Developement** | July - August 2018 <br />
-  at wirecube GmbH in Graz <br />
+### Android Developement
+  wirecube GmbH in Graz | July - August 2018 <br />
   Responsibilites:
   * Development and implementation of an Android bluetooth beacon configuration tool
 
-
-* **Technical Support** | June - July 2017 & 2018 <br />
-  at the Fifteen Seconds Festival in Graz <br />
+### Technical Support
+  Fifteen Seconds Festival in Graz | June - July 2017 & 2018 <br />
   *  Technical set-up of registration booths, devices and technical equipment before and during the festival
   *  Point of contact for technical support for the exihibitors
 
-
-* **Software Developer for IT/ERP BAAN** | August - September 2016 <br />
-  Liebherr, Nenzing <br />
+### Software Developer for IT/ERP BAAN
+  Liebherr, Nenzing | August - September 2016 <br />
   Responsibilites:
   * Design and implementation of new software components for BaaN 
   * Go-live of new applications according to Change Management Process
@@ -76,11 +73,9 @@ redirect_from:
   * Search Engine Optimization
   * Project Management and Organization
 
-
 ### *Soft Skills*
   * Teamwork and Coordination
   * Intercultural Communication and Collaboration
-
 
 ### *Languages*
   * German - native
