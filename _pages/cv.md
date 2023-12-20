@@ -29,12 +29,11 @@ redirect_from:
 
 ### Business Academy
   2008 - 2013 | A-Levels <br />
-  written exam subjects:
+  written exam subjects: <br />
   * German 
   * English including business working language
   * Colloquium of economics and accounting
-  
-  oral exam subjects:
+  oral exam subjects: <br />
   * International marketing and economics
   * Political education and law
   * Spanish including business working language
