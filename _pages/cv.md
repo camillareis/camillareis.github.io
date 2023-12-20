@@ -44,16 +44,18 @@ redirect_from:
   * Planning and coordination for various social media platforms 
   * Design of advertising materials
 
+
 * **Android Developement** | July - August 2018 <br />
   at wirecube GmbH in Graz <br />
   Responsibilites:
-  * 
-  * x
+  * Development and implementation of an Android bluetooth beacon configuration tool
+
 
 * **Technical Support** | June - July 2017 & 2018 <br />
   at the Fifteen Seconds Festival in Graz <br />
   *  Technical set-up of registration booths, devices and technical equipment before and during the festival
   *  Point of contact for technical support for the exihibitors
+
 
 * **Software Developer for IT/ERP BAAN** | August - September 2016 <br />
   Liebherr, Nenzing <br />
