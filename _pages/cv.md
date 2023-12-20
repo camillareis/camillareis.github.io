@@ -45,13 +45,11 @@ redirect_from:
 
 ### Sales and Marketing Assistant
   wirecube GmbH in Graz | October 2018 - May 2019 <br />
-  Responsibilites:
   * Planning and coordination for various social media platforms 
   * Design of advertising materials
 
 ### Android Developement
   wirecube GmbH in Graz | July - August 2018 <br />
-  Responsibilites:
   * Development and implementation of an Android bluetooth beacon configuration tool
 
 ### Technical Support
@@ -61,7 +59,6 @@ redirect_from:
 
 ### Software Developer for IT/ERP BAAN
   Liebherr, Nenzing | August - September 2016 <br />
-  Responsibilites:
   * Design and implementation of new software components for BaaN 
   * Go-live of new applications according to Change Management Process
 
