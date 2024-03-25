@@ -12,27 +12,27 @@ redirect_from:
 ---
 
 
-### Teaching in the following courses: 
+## Teaching in the following courses: 
 
-#### Summer Term 2022
+### Summer Term 2022
   * General Management and Organisation (Practical)
 
-#### Winter Term 2022-2023
+### Winter Term 2022-2023
   * Unternehmungsführung und Organisation (Übung)
   * Selected Modules of the MBA „Leadership in Digital Transformation“
     * A1.1 General Management
     * A1.2 Strategic Management
     * B1 Digital Economy
 
-#### Summer Term 2023
+### Summer Term 2023
   * General Management and Organisation (Practical)
   * Technology Management (Lecture) - _Foresight, Evaluation and Development of Technologies_
   * General Management, Case Studies (Seminar)
 
-#### Winter Term 2023-2024
+### Winter Term 2023-2024
   * Unternehmungsführung und Organisation, Übung
 
-#### Summer Term 2024
+### Summer Term 2024
   * General Management and Organisation (Practical)
   * General Management and Organisation (Lecture) - _Personnel, Values and Culture_
   * Technology Management (Lecture) - _Foresight, Evaluation and Development of Technologies_
@@ -40,5 +40,15 @@ redirect_from:
 
 ---
 
-### Training Certifications for Teaching:
+## Training Certifications for Teaching:
 
+* Higher Education Didactics I: Basics of Teaching and Learning
+* Higher Education Didactics II: Teaching Courses
+* Higher Education Didactics III: Lectures with Digital Technologies
+* "Kompetent Prüfen" - constructive alignment and competence-oriented examinations
+* Teaching our Digital Generations
+* Digitalization in Teaching: How technology can enrich your teaching
+
+
+September 2023 I received a scholarship for [eDidactics](https://edidactics.at/) (university didactic training program for the use of technology in university teaching) for 2024/2025. Completed courses:
+* Accessibility and Inclusion
