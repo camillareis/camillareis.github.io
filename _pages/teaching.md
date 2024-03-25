@@ -12,7 +12,7 @@ redirect_from:
 ---
 
 
-## Teaching in the following courses: 
+## Lectures, Practicals and Seminars: 
 
 ### Summer Term 2022
   * General Management and Organisation (Practical)
