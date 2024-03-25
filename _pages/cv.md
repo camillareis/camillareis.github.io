@@ -24,7 +24,7 @@ redirect_from:
 
 ### Bachelor Studies Softwareengineering - Management
   2014 - 2018 | GPA 3.1 <br />
-  Bachelor Thesis: *Android Bluetooth Credential* Store at the Institut of Applied Information Processing and Communications, TU Graz
+  Bachelor Thesis: *Android Bluetooth Credential Store* at the Institut of Applied Information Processing and Communications, TU Graz
 
 
 ### Business Academy
@@ -33,7 +33,7 @@ redirect_from:
   German • English including business working language • Colloquium of economics and accounting <br />
   
   oral exam subjects: <br />
-  International marketing and economics • political education and law • Spanish including business working language
+  Marketing and International Economics • Political Education and Law • Spanish including business working language
 
 ---
 
@@ -44,12 +44,12 @@ redirect_from:
   for more details see [teaching](https://camillareis.github.io/teaching/) and [publications & research](https://camillareis.github.io/reserach-publications/)
 
 ### Sales and Marketing Assistant
-  wirecube GmbH in Graz | October 2018 - May 2019 <br />
+  wirecube GmbH in Graz | Part-Time: October 2018 - May 2019 <br />
   * Planning and coordination for various social media platforms 
   * Design of advertising materials
 
 ### Android Developement
-  wirecube GmbH in Graz | July - August 2018 <br />
+  wirecube GmbH in Graz | Internship: July - August 2018 <br />
   * Development and implementation of an Android bluetooth beacon configuration tool
 
 ### Technical Support
@@ -58,7 +58,7 @@ redirect_from:
   *  Point of contact for technical support for the exihibitors
 
 ### Software Developer for IT/ERP BAAN
-  Liebherr, Nenzing | August - September 2016 <br />
+  Liebherr, Nenzing | Internship: August - September 2016 <br />
   * Design and implementation of new software components for BaaN 
   * Go-live of new applications according to Change Management Process
 
