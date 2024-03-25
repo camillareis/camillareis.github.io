@@ -66,21 +66,21 @@ redirect_from:
 
 ---
 
-### *Technical Skills and Software*
+#### *Technical Skills and Software*
   * Linux • MacOS • MS Windows
   * MS Office • LaTeX
   * Github • SVN
   * Notion 
   * UXPin • Sketch • Figma
 
-### *Soft Skills and Competencies* 
+#### *Soft Skills and Competencies* 
   * Search Engine Optimization
   * Project Management Principles
   * Agile Principles in New Product Development
   * Teamwork and Coordination
   * Intercultural Communication and Collaboration
 
-### *Languages*
+#### *Languages*
   * German - native
   * English - native
   * Spanish - level B1
