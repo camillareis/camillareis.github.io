@@ -11,7 +11,7 @@ redirect_from:
 Hi! My name is Camilla and I'm a university assistant at the [Institute of General Management and Organisation](https://www.tugraz.at/institute/ufo/home) at [Graz University of Technology](https://www.tugraz.at/en/home) in Austria. Prior to this position, I studied Software Engineering - Management at TU Graz and received my master's degree in the end of 2021.
 
 
-You might be thinking, _"What does a university assistant do?"_ 
+In case you are wondering, _"What does a university assistant do?"_ 
 
 I am part of the teaching team and co-responsible for various lectures and seminars for undergraduate and MBA degree programs. For more details on which courses I teach, check out my [teaching page](https://camillareis.github.io/teaching/). As a teaching assistant my responsibilites include organizing and processing lecture exams, and supervising Bachelor's and Master's Thesis.
 
