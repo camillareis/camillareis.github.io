@@ -40,16 +40,17 @@ redirect_from:
 ## *Work experience*
 
 ### University Assistant
-  Graz University of Technology | since Dezember 2021 <br />
+  Graz University of Technology | Full-Time since Dezember 2021 <br />
   for more details see [teaching](https://camillareis.github.io/teaching/) and [publications & research](https://camillareis.github.io/reserach-publications/)
 
 ### Sales and Marketing Assistant
-  wirecube GmbH in Graz | Part-Time: October 2018 - May 2019 <br />
-  * Planning and coordination for various social media platforms 
+  wirecube GmbH in Graz | Part-Time, October 2018 - May 2019 <br />
+  * Planning and coordination for various social media platforms
+  * Research and writing of blog posts
   * Design of advertising materials
 
 ### Android Developement
-  wirecube GmbH in Graz | Internship: July - August 2018 <br />
+  wirecube GmbH in Graz | Internship, July - August 2018 <br />
   * Development and implementation of an Android bluetooth beacon configuration tool
 
 ### Technical Support
@@ -58,26 +59,31 @@ redirect_from:
   *  Point of contact for technical support for the exihibitors
 
 ### Software Developer for IT/ERP BAAN
-  Liebherr, Nenzing | Internship: August - September 2016 <br />
-  * Design and implementation of new software components for BaaN 
+  Liebherr in Nenzing | Internship, August - September 2016 <br />
+  * Design and implementation of new software components for BaaN
+  * Maintainance of existing software components and modules
   * Go-live of new applications according to Change Management Process
 
 ---
 
-### *Technical Skills*
+### *Technical Skills and Software*
   * Linux • MacOS • MS Windows
   * MS Office • LaTeX
-  * Search Engine Optimization
-  * Project Management and Organization
+  * Github • SVN
+  * Notion 
+  * UXPin • Sketch • Figma
 
-### *Soft Skills*
+### *Soft Skills and Competencies* 
+  * Search Engine Optimization
+  * Project Management Principles
+  * Agile Principles in New Product Development
   * Teamwork and Coordination
   * Intercultural Communication and Collaboration
 
 ### *Languages*
   * German - native
   * English - native
-  * Spanish - level B2
+  * Spanish - level B1
 
 ---
 
