@@ -16,7 +16,6 @@ redirect_from:
 
 SUMMER TERM 2022
   * General Management and Organisation (Practical)
-
 </br>
 
 WINTER TERM 2022/2023
@@ -25,24 +24,24 @@ WINTER TERM 2022/2023
     * A1.1 General Management
     * A1.2 Strategic Management
     * B1 Digital Economy
-
+</br>
 
 SUMMER TERM 2023
   * General Management and Organisation (Practical)
   * Technology Management (Lecture) - _Foresight, Evaluation and Development of Technologies_
   * General Management, Case Studies (Seminar)
-
+</br>
 
 WINTER TERM 2023/2024
   * Unternehmungsführung und Organisation, Übung
-
+</br>
 
 SUMMER TERM 2024
   * General Management and Organisation (Practical)
   * General Management and Organisation (Lecture) - _Personnel, Values and Culture_
   * Technology Management (Lecture) - _Foresight, Evaluation and Development of Technologies_
   * General Management, Case Studies (Seminar)
-
+</br>
 
 ---
 
