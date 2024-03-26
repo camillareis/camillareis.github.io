@@ -12,7 +12,7 @@ redirect_from:
 ---
 
 
-## Coursework and Teaching: 
+## Coursework
 
 ### Lectures:
   * General Management and Organisation - _Personnel, Values and Culture_
@@ -54,7 +54,7 @@ SUMMER TERM 2024
 
 ---
 
-## Training Certifications for Teaching:
+## Training Certifications for Teaching
 
 * Higher Education Didactics I: Basics of Teaching and Learning
 * Higher Education Didactics II: Teaching Courses
