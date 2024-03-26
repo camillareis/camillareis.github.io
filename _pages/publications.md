@@ -7,6 +7,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<!--
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -16,6 +17,7 @@ redirect_from:
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+-->
 
 
 ## Doctoral Thesis
