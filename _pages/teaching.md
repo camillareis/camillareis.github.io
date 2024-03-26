@@ -11,12 +11,11 @@ redirect_from:
 
 ---
 
-
 ## Coursework
 
 ### Lectures:
-  * General Management and Organisation - _Personnel, Values and Culture_
-  * Technology Management - _Foresight, Evaluation and Development of Technologies_
+  * Technology Management
+  * General Management and Organisation
   * Selected Modules of the MBA „Leadership in Digital Transformation“
     * A1.1 General Management
     * A1.2 Strategic Management
@@ -26,31 +25,6 @@ redirect_from:
   * General Management and Organisation (Practical)
   * Unternehmungsführung und Organisation (Übung)
   * General Management, Case Studies (Seminar)
-
-<!--- SUMMER TERM 2022
-  * General Management and Organisation (Practical)
-
-WINTER TERM 2022/2023
-  * Unternehmungsführung und Organisation (Übung)
-  * Selected Modules of the MBA „Leadership in Digital Transformation“
-    * A1.1 General Management
-    * A1.2 Strategic Management
-    * B1 Digital Economy
-
-SUMMER TERM 2023
-  * General Management and Organisation (Practical)
-  * Technology Management (Lecture) - _Foresight, Evaluation and Development of Technologies_
-  * General Management, Case Studies (Seminar)
-
-WINTER TERM 2023/2024
-  * Unternehmungsführung und Organisation, Übung
-
-SUMMER TERM 2024
-  * General Management and Organisation (Practical)
-  * General Management and Organisation (Lecture) - _Personnel, Values and Culture_
-  * Technology Management (Lecture) - _Foresight, Evaluation and Development of Technologies_
-  * General Management, Case Studies (Seminar)
---->
 
 ---
 
