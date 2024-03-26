@@ -12,7 +12,7 @@ redirect_from:
 ---
 
 
-## Lectures, Practicals and Seminars: 
+## Coursework and Teaching: 
 
 ### Lectures:
   * General Management and Organisation - _Personnel, Values and Culture_
