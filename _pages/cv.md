@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-## EDUCATION
+## Education
 
 ### Doctoral School Techno-Economics
   2022 - 2025 (expected) <br />
@@ -37,7 +37,7 @@ redirect_from:
 
 ---
 
-## WORK EXPERIENCE
+## Work Experience
 
 ### University Assistant
   Graz University of Technology | Full-Time since Dezember 2021 <br />
@@ -65,7 +65,7 @@ redirect_from:
   * Go-live of new applications according to Change Management Process
 
 ---
-## FURTHER DEVELOPMENT AND SKILLS 
+## Further Development and Skills 
 
 ### Training and Certifications
   * Process-oriented Leadership of Teams
@@ -94,7 +94,7 @@ redirect_from:
 
 ---
 
-## PERSONAL INTERESTS AND FREE TIME
+## Personal Interests and Free Time
   * Organizational Culture and Leadership Topics
   * Reading (Memoirs, Fantasy and Non-Fiction)
   * Sewing, Hiking and Yoga
