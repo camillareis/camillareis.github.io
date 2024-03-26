@@ -17,6 +17,7 @@ redirect_from:
 SUMMER TERM 2022
   * General Management and Organisation (Practical)
 
+</br>
 
 WINTER TERM 2022/2023
   * Unternehmungsführung und Organisation (Übung)
