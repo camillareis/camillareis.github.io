@@ -65,32 +65,39 @@ redirect_from:
   * Go-live of new applications according to Change Management Process
 
 ---
+## *Further Development and Skills* 
 
-#### *Technical Skills and Software*
+### *Training and Certifications*
+  * Process-oriented Leadership of Teams
+  * Intercultural Social Competence
+  * Communication and Rhetoric
+  * Generative AI in Higher Education (from [KI-Campus](https://ki-campus.org/))
+
+### *Technical Skills and Software*
   * Linux • MacOS • MS Windows
   * MS Office • LaTeX
   * Github • SVN
   * Notion 
   * UXPin • Sketch • Figma
 
-#### *Soft Skills and Competencies* 
+### *Soft Skills and Competencies* 
   * Search Engine Optimization
   * Project Management Principles
   * Agile Principles in New Product Development
   * Teamwork and Coordination
   * Intercultural Communication and Collaboration
 
-#### *Languages*
+### *Languages*
   * German - native
   * English - native
   * Spanish - level B1
 
 ---
 
-## *Free Time and Personal Interests*
-  * Reading - Memoirs and Fiction
-  * Sewing 
-  * Hiking and Yoga
+## *Personal Interests and Free Time*
+  * Organizational Culture and Leadership Topics
+  * Reading (Memoirs, Fantasy and Non-Fiction)
+  * Sewing, Hiking and Yoga
 
 
 <!-- Publications
