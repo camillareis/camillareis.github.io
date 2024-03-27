@@ -41,7 +41,7 @@ redirect_from:
 
 ### University Assistant
   Graz University of Technology | Full-Time since Dezember 2021 <br />
-  for more details see [teaching](https://camillareis.github.io/teaching/) and [publications & research](https://camillareis.github.io/reserach-publications/)
+  for more details see [teaching](https://camillareis.github.io/teaching/) and [research & publications](https://camillareis.github.io/reserach-publications/)
 
 ### Sales and Marketing Assistant
   wirecube GmbH in Graz | Part-Time, October 2018 - May 2019 <br />
