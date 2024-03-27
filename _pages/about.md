@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Camilla and I'm a university assistant at the [Institute of General Management and Organisation](https://www.tugraz.at/institute/ufo/home) at [Graz University of Technology](https://www.tugraz.at/en/home) in Austria. Prior to this position, I studied Software Engineering - Management at TU Graz and received my master's degree in the end of 2021.
+Hi! My name is Camilla and I'm a university assistant at the [Institute of General Management and Organisation](https://www.tugraz.at/institute/ufo/home) at [Graz University of Technology](https://www.tugraz.at/en/home) in Austria. Prior to this position, I studied **Software Engineering - Management** at TU Graz and received my master's degree in the end of 2021.
 
 
 In case you are wondering, _"What does a university assistant do?"_ 
