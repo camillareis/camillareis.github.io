@@ -68,7 +68,7 @@ redirect_from:
 ## Further Development and Skills 
 
 ### Training and Certifications
-  * Process-oriented Leadership of Teams
+  * Process-oriented Leadership of Groups and Teams
   * Intercultural Social Competence
   * Communication and Rhetoric
   * Generative AI in Higher Education (from [KI-Campus](https://ki-campus.org/))
