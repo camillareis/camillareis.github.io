@@ -20,7 +20,7 @@ Besides teaching, I also participate in research projects at the institute. My r
 Managing all tasks, responsibilities and interests simulataneously can be overwhelming, so I have many **systems and digital organization tools** that support me in not losing track and work efficiently. I am currently working on blog posts about the best digital research tools and organization tips, so stay tuned.
 
 
-In sum, my _passion for teaching and education_ characterizes me as a university assistant. My _curiosity and self-motivation_ drive me as a doctoral student. And my _love for digital planning and organization tools_ helps me work solution-oriented and efficiently.
+In sum, my _passion for teaching and education_ characterizes me as a university assistant. My _curiosity and self-motivation_ drive me as a researcher. And my _love for digital planning and organization tools_ helps me work solution-oriented and efficiently.
 
 
 
