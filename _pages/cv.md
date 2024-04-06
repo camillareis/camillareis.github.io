@@ -19,12 +19,12 @@ redirect_from:
 
 ### Master Studies Sofwareengineering - Management
   2018 - 2021 | GPA 3.6 <br />
-  Master Thesis: *Technology-based Business Models - Literature Review and Examples* at the Institut of General Management and Organisation, TU Graz <br />
+  Master Thesis: *Technology-based Business Models - Literature Review and Examples* at the [Institut of General Management and Organisation](https://www.tugraz.at/institute/ufo/home), TU Graz <br />
   selected catalogues: Web and Data Science, Management and Strategy
 
 ### Bachelor Studies Softwareengineering - Management
   2014 - 2018 | GPA 3.1 <br />
-  Bachelor Thesis: *Android Bluetooth Credential Store* at the Institut of Applied Information Processing and Communications, TU Graz
+  Bachelor Thesis: *Android Bluetooth Credential Store* at the [Institut of Applied Information Processing and Communications](https://www.iaik.tugraz.at/), TU Graz
 
 
 ### Business Academy
@@ -72,6 +72,7 @@ redirect_from:
   * Intercultural Social Competence
   * Communication and Rhetoric
   * Generative AI in Higher Education (from [KI-Campus](https://ki-campus.org/))
+  * Managing Conflicts with Cultural and Emotional Intelligence
 
 ### Technical Skills and Software
   * Linux • MacOS • MS Windows
