@@ -99,7 +99,8 @@ redirect_from:
   * Organizational Culture and Leadership Topics
   * Reading (Memoirs, Fantasy and Non-Fiction)
   * Sewing, Hiking and Yoga
-![plant-icon](images/plant-icon.png)
+  
+
 
 
 <!-- Publications
