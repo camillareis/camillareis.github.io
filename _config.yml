@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Camilla Reis"
-  avatar           : "profile-framed.png"
+  avatar           : "profile.jpg" #"profile-framed.png"
   bio              : "University Assistant and Doctoral Student"
   location         : "Graz, Austria"
   employer         : 
