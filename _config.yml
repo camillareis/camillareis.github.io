@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Camilla Reis"
 title_separator          : "-"
 name                     : &name "Camilla Reis "
-description              : &description "test test"
+description              : &description ""
 url                      : https://camillareis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -85,8 +85,8 @@ author:
   bio              : "University Assistant and Doctoral Student"
   location         : "Graz, Austria"
   employer         : 
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    :
   email            :  camilla.reis@tugraz.at
   researchgate     :  "https://www.researchgate.net/profile/Camilla-Reis"
   uri              :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         : "reiscamilla"
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
