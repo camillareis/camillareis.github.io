@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-## *Education*
+## Education
 
 ### Doctoral School Techno-Economics
   2022 - 2025 (expected) <br />
@@ -19,12 +19,12 @@ redirect_from:
 
 ### Master Studies Sofwareengineering - Management
   2018 - 2021 | GPA 3.6 <br />
-  Master Thesis: *Technology-based Business Models - Literature Review and Examples* at the Institut of General Management and Organisation, TU Graz <br />
+  Master Thesis: *Technology-based Business Models - Literature Review and Examples* at the [Institut of General Management and Organisation](https://www.tugraz.at/institute/ufo/home), TU Graz <br />
   selected catalogues: Web and Data Science, Management and Strategy
 
 ### Bachelor Studies Softwareengineering - Management
   2014 - 2018 | GPA 3.1 <br />
-  Bachelor Thesis: *Android Bluetooth Credential* Store at the Institut of Applied Information Processing and Communications, TU Graz
+  Bachelor Thesis: *Android Bluetooth Credential Store* at the [Institut of Applied Information Processing and Communications](https://www.iaik.tugraz.at/), TU Graz
 
 
 ### Business Academy
@@ -33,23 +33,24 @@ redirect_from:
   German • English including business working language • Colloquium of economics and accounting <br />
   
   oral exam subjects: <br />
-  International marketing and economics • political education and law • Spanish including business working language
+  Marketing and International Economics • Political Education and Law • Spanish including business working language
 
 ---
 
-## *Work experience*
+## Work Experience
 
 ### University Assistant
-  Graz University of Technology | since Dezember 2021 <br />
-  for more details see [teaching](https://camillareis.github.io/teaching/) and [publications & research](https://camillareis.github.io/reserach-publications/)
+  Graz University of Technology | Full-Time since Dezember 2021 <br />
+  for more details see [teaching](https://camillareis.github.io/teaching/) and [research & publications](https://camillareis.github.io/reserach-publications/)
 
 ### Sales and Marketing Assistant
-  wirecube GmbH in Graz | October 2018 - May 2019 <br />
-  * Planning and coordination for various social media platforms 
+  wirecube GmbH in Graz | Part-Time, October 2018 - May 2019 <br />
+  * Planning and coordination for various social media platforms
+  * Research and writing of blog posts
   * Design of advertising materials
 
 ### Android Developement
-  wirecube GmbH in Graz | July - August 2018 <br />
+  wirecube GmbH in Graz | Internship, July - August 2018 <br />
   * Development and implementation of an Android bluetooth beacon configuration tool
 
 ### Technical Support
@@ -58,33 +59,46 @@ redirect_from:
   *  Point of contact for technical support for the exihibitors
 
 ### Software Developer for IT/ERP BAAN
-  Liebherr, Nenzing | August - September 2016 <br />
-  * Design and implementation of new software components for BaaN 
+  Liebherr in Nenzing | Internship, August - September 2016 <br />
+  * Design and implementation of new software components for BaaN
+  * Maintainance of existing software components and modules
   * Go-live of new applications according to Change Management Process
 
 ---
+## Further Development and Skills 
 
-### *Technical Skills*
+### Training and Certifications
+  * Process-oriented Leadership of Groups and Teams
+  * Intercultural Social Competence
+  * Communication and Rhetoric
+  * Generative AI in Higher Education (from [KI-Campus](https://ki-campus.org/))
+  * Managing Conflicts with Cultural and Emotional Intelligence
+
+### Technical Skills and Software
   * Linux • MacOS • MS Windows
   * MS Office • LaTeX
-  * Search Engine Optimization
-  * Project Management and Organization
+  * Github • SVN
+  * Notion 
+  * UXPin • Sketch • Figma
 
-### *Soft Skills*
+### Soft Skills and Competencies 
+  * Search Engine Optimization
+  * Project Management Principles
+  * Agile Principles in New Product Development
   * Teamwork and Coordination
   * Intercultural Communication and Collaboration
 
-### *Languages*
+### Languages
   * German - native
   * English - native
-  * Spanish - level B2
+  * Spanish - level B1
 
 ---
 
-## *Free Time and Personal Interests*
-  * Reading - Memoirs and Fiction
-  * Sewing 
-  * Hiking and Yoga
+## Personal Interests and Free Time
+  * Organizational Culture and Leadership Topics
+  * Reading (Memoirs, Fantasy and Non-Fiction)
+  * Sewing, Hiking and Yoga
 
 
 <!-- Publications
