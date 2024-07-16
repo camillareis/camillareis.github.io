@@ -36,6 +36,7 @@ redirect_from:
 * "Kompetent Prüfen" - constructive alignment and competence-oriented examinations
 * Teaching our Digital Generations
 * Digitalization in Teaching: How technology can enrich your teaching
+* Generative AI in Higher Education (from [KI-Campus](https://ki-campus.org/))
 
 
 September 2023 I received a scholarship for [eDidactics](https://edidactics.at/) (university didactic training program for the use of technology in university teaching) for 2024/2025. Completed courses:
