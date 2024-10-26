@@ -68,6 +68,7 @@ redirect_from:
 ## Further Development and Skills 
 
 ### Training and Certifications
+  * Agile and strategic management with OKR
   * Process-oriented Leadership of Groups and Teams
   * Intercultural Social Competence
   * Communication and Rhetoric
@@ -76,7 +77,7 @@ redirect_from:
 
 ### Technical Skills and Software
   * Linux • MacOS • MS Windows
-  * MS Office • LaTeX
+  * LaTeX • MS Office
   * Github • SVN
   * Notion 
   * UXPin • Sketch • Figma
