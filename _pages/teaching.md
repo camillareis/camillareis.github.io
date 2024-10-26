@@ -42,3 +42,5 @@ redirect_from:
 September 2023 I received a scholarship for [eDidactics](https://edidactics.at/) (university didactic training program for the use of technology in university teaching) for 2024/2025. Completed courses:
 * Accessibility and Inclusion
 * E-moderation and Communication with Digital Media
+* Media Didactions - Teaching with Digital Technologies
+
