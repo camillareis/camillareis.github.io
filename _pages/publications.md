@@ -12,15 +12,19 @@ redirect_from:
 ---
 ## Publications
 
-### Creating an Encouraging Context: A Systematic Literature Review of Contextual Factors to Manage Technical Debt
+Reis, Camilla. 2025. “*Creating an Encouraging Context: A Systematic Literature Review of Contextual Factors to Manage Technical Debt.*” In Proceedings of the 58th Hawaii International Conference on System Sciences, 6350–59. [https://hdl.handle.net/10125/109606](https://hdl.handle.net/10125/109606).
 
-*Abstract——* 
+
+#### *Creating an Encouraging Context: A Systematic Literature Review of Contextual Factors to Manage Technical Debt*
+
+*Abstract—* 
 When the culture and processes of software development companies do not support technical debt management, unintentional technical debt accumulates in the system and becomes excessive. Encouragement, dedicated time, and proper processes can reduce and avoid unintentional debt, and the skill of contextual ambidexterity can be applied by creating an encouraging context that supports technical debt management. However, existing literature discussing which contextual factors are required to achieve this skill is scarce, and practitioners call for approaches to reduce and avoid technical debt. This paper presents a systematic literature review of 48 papers to identify contextual factors for achieving contextual ambidexterity in knowledge-driven contexts. The results reveal seven categories of core and support contextual factors. This paper informs small- and medium-sized software development companies which contextual factors establish an encouraging context, and it theoretically examines the IT managers’ responsibility for technical debt management.
 
-*Keywords——* 
+*Keywords—* 
 Socio-Technical Issues in Organizational Information Technologies, contextual ambidexterity, organizational context, software development, systematic literature review, technical debt
 
 You can download the paper [here](https://hdl.handle.net/10125/109606).
+The paper was presented at the 58th Hawaiian International Conference for System Science | January 2025
 
 ---
 
