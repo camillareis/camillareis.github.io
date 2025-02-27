@@ -10,12 +10,25 @@ redirect_from:
 {% include base_path %}
 
 ---
+## Publications
+
+### Creating an Encouraging Context: A Systematic Literature Review of Contextual Factors to Manage Technical Debt
+
+**Abstract**
+
+When the culture and processes of software development companies do not support technical debt management, unintentional technical debt accumulates in the system and becomes excessive. Encouragement, dedicated time, and proper processes can reduce and avoid unintentional debt, and the skill of contextual ambidexterity can be applied by creating an encouraging context that supports technical debt management. However, existing literature discussing which contextual factors are required to achieve this skill is scarce, and practitioners call for approaches to reduce and avoid technical debt. This paper presents a systematic literature review of 48 papers to identify contextual factors for achieving contextual ambidexterity in knowledge-driven contexts. The results reveal seven categories of core and support contextual factors. This paper informs small- and medium-sized software development companies which contextual factors establish an encouraging context, and it theoretically examines the IT managers’ responsibility for technical debt management.
+
+Keywords: Socio-Technical Issues in Organizational Information Technologies, contextual ambidexterity, organizational context, software development, systematic literature review, technical debt
+
+You can download the paper [here](https://hdl.handle.net/10125/109606).
+
+---
 
 ## Doctoral Thesis
 
 **Achieving Contextual Ambidexterity in Software Development Companies - An Empirical Investigation to Manage Technical Debt**
 
-Nowadays, the pace of technological development pressures companies to keep up with change. Especially industries, such as the software development industry, characterized by rapid technological advancements and low entry barriers that lead to fierce and global competition are affected. Software development companies - especially in the beginning stages - need to bring new products and features quickly to the market for early customer feedback and to outpace competition.
+Nowadays, the pace of technological development pressures companies to keep up with change. Especially industries, such as the software development industry, characterized by rapid technological advancements and low entry barriers that lead to fierce and global competition are affected. Software development companies—especially in the beginning stages—need to bring new products and features quickly to the market for early customer feedback and to outpace competition.
 
 Quick and dirty solutions or functionality that is “good enough” ([Cunningham 1992](https://dl.acm.org/doi/pdf/10.1145/157710.157715)) for building minimum viable products will need rework and reengineering at a later time. The conscious (or sometimes unconscious) decision to cut corners is known as technical debt. The additional effort and cost required to write high-quality and reliable code are pushed back to when the company can “afford” the additional cost it will take (either financially, expertise-wise, or other). Sometimes incurring technical debt is used as a strategic tool to stay agile, reduce time to market, and get feedback quickly. However, failure to manage incurred technical debt can have long-term detrimental consequences as the cost of change increases exponentially.
 
