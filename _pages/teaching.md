@@ -39,8 +39,11 @@ redirect_from:
 * Generative AI in Higher Education (from [KI-Campus](https://ki-campus.org/))
 
 
-September 2023 I received a scholarship for [eDidactics](https://edidactics.at/) (university didactic training program for the use of technology in university teaching) for 2024/2025. Completed courses:
-* Accessibility and Inclusion
-* E-moderation and Communication with Digital Media
-* Media Didactics - Teaching with Digital Technologies
+September 2023 I received a [eDidactics](https://edidactics.at/)-scholarship for 2024/2025. eDidactics is a university didactic training program for the use of technologies in university teaching.
+Within this scholarship, I completed the following courses:
+* Accessibility and Inclusion (January 2024)
+* In-House Hardware/Software relevant to Teaching and Learning (April 2024)
+* E-moderation and Communication with Digital Media (June 2024)
+* Media Didactics - Teaching with Digital Technologies (October 2024)
+* Multimedia Production (January 2025)
 
