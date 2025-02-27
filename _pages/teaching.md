@@ -37,7 +37,9 @@ redirect_from:
 * Teaching our Digital Generations
 * Digitalization in Teaching: How technology can enrich your teaching
 * Generative AI in Higher Education (from [KI-Campus](https://ki-campus.org/))
+* GDPR training for research and educational institutions
 
+--
 
 September 2023 I received a [eDidactics](https://edidactics.at/)-scholarship for 2024/2025. eDidactics is a university didactic training program for the use of technologies in university teaching.
 Within this scholarship, I completed the following courses:
