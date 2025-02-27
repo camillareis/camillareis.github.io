@@ -12,6 +12,10 @@ redirect_from:
 ---
 ## Publications
 
+<p style="padding-left: 2em; text-indent: -2em;">
+  Reis, Camilla. 2025. “*Creating an Encouraging Context: A Systematic Literature Review of Contextual Factors to Manage Technical Debt.*” In Proceedings of the 58th Hawaii International Conference on System Sciences, 6350–59. [https://hdl.handle.net/10125/109606](https://hdl.handle.net/10125/109606).
+</p>
+
 Reis, Camilla. 2025. “*Creating an Encouraging Context: A Systematic Literature Review of Contextual Factors to Manage Technical Debt.*” In Proceedings of the 58th Hawaii International Conference on System Sciences, 6350–59. [https://hdl.handle.net/10125/109606](https://hdl.handle.net/10125/109606).
 &nbsp;
 : *Abstract—* 
