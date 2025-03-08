@@ -46,7 +46,7 @@ redirect_from:
 ### Sales and Marketing Assistant
   wirecube GmbH in Graz | Part-Time, October 2018 - May 2019 <br />
   * Planning and coordination for various social media platforms
-  * Research and writing of blog posts
+  * Research and writing of online content (blog posts, advertising copy, etc.)
   * Design of advertising materials
 
 ### Android Developement
@@ -90,9 +90,9 @@ redirect_from:
   * Intercultural Communication and Collaboration
 
 ### Languages
-  * German - native
-  * English - native
-  * Spanish - level B1
+  * German (native)
+  * English (native)
+  * Spanish (level B1)
 
 ---
 
