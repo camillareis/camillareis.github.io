@@ -26,7 +26,7 @@ Socio-Technical Issues in Organizational Information Technologies, contextual am
 
 ## Doctoral Thesis
 
-**Achieving Contextual Ambidexterity in Software Development Companies - An Empirical Analysis to Balance Speed and Quality**
+**Achieving Contextual Ambidexterity in Software Development Companies - An Empirical Analysis to Balance Technical Debt**
 
 The pace of technological development pressures companies to keep up with change. Especially industries, such as the software development industry, characterized by rapid technological advancements and low entry barriers that lead to fierce global competition are affected. Software development companies—especially in the beginning stages—need to bring new products and features quickly to the market for early customer feedback and to outpace competition.
 
