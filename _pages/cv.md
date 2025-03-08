@@ -14,13 +14,13 @@ redirect_from:
 ## Education
 
 ### Doctoral School Techno-Economics
-  2022 - 2025 (expected) <br />
+  2022 - 2026 (expected) <br />
   Doctoral Thesis: *Achieving Contextual Ambidexterity in Software Development Companies* 
 
 ### Master Studies Sofwareengineering - Management
   2018 - 2021 | GPA 3.6 <br />
   Master Thesis: *Technology-based Business Models - Literature Review and Examples* at the [Institut of General Management and Organisation](https://www.tugraz.at/institute/ufo/home), TU Graz <br />
-  selected catalogues: Web and Data Science, Management and Strategy
+  selected catalogues: Web and Data Science; Management and Strategy
 
 ### Bachelor Studies Softwareengineering - Management
   2014 - 2018 | GPA 3.1 <br />
