@@ -145,9 +145,6 @@
 .ai-orcid:before {
   content: "\e840";
 }
-.ai-orcid-square:before {
-  content: "\e841";
-}
 .ai-osf:before {
   content: "\e842";
 }
@@ -186,9 +183,6 @@
 }
 .ai-researchgate:before {
   content: "\e854";
-}
-.ai-researchgate-square:before {
-  content: "\e855";
 }
 .ai-scirate:before {
   content: "\e856";
