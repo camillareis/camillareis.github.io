@@ -18,7 +18,7 @@ redirect_from:
   Doctoral Thesis: *The Role of Organizational Context on Technical Debt Management: A Multiple Case Study of Software Development Teams* at the [Institut of General Management and Organisation](https://www.tugraz.at/institute/ufo/home), TU Graz
 
 ### Master Studies Sofwareengineering - Management
-  2018 - 2021 | GPA 3.6 <br />
+  2018 - 2021 | GPA 3.6, passed with distinction <br />
   Master Thesis: *Technology-based Business Models - Literature Review and Examples* at the [Institut of General Management and Organisation](https://www.tugraz.at/institute/ufo/home), TU Graz <br />
   selected catalogues: Web and Data Science; Management and Strategy
 
@@ -28,11 +28,11 @@ redirect_from:
 
 
 ### Vocational High School for Business and Economics
-  2008 - 2013 | A-Levels <br />
-  written exam subjects: <br />
+  2008 - 2013 <br />
+  written A-Levels subjects: <br />
   German • English including business working language • Colloquium of economics and accounting <br />
   
-  oral exam subjects: <br />
+  oral A-Levels subjects: <br />
   Marketing and International Economics • Political Education and Law • Spanish including business working language
 
 ---
