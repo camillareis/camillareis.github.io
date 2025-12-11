@@ -24,7 +24,7 @@ redirect_from:
 
 ### Bachelor Studies Softwareengineering - Management
   2014 - 2018 | GPA 3.1 <br />
-  Bachelor Thesis: *Android Bluetooth Credential Store* at the [Institut of Applied Information Processing and Communications](https://www.iaik.tugraz.at/), TU Graz
+  Bachelor Thesis: *Android Bluetooth Credential Store* at the [Institut of Information Security](https://www.isec.tugraz.at/), TU Graz
 
 
 ### Vocational High School for Business and Economics
