@@ -14,17 +14,17 @@ redirect_from:
 ## Coursework
 
 ### Lectures:
-  * Technology Management
-  * General Management and Organisation
-  * Selected Modules of the MBA „Leadership in Digital Transformation“
+  * Technology Management (Master level, 2023-2026)
+  * General Management and Organisation (Master level, 2023-2025)
+  * Selected Modules of the MBA „Leadership in Digital Transformation“ (2022-2023)
     * A1.1 General Management
     * A1.2 Strategic Management
-    * B1 Digital Economy
+    * B1 Green & Digital Economy
 
 ### Practicals and Seminars:
-  * General Management and Organisation (Practical)
-  * Unternehmungsführung und Organisation (Übung)
-  * General Management, Case Studies (Seminar)
+  * General Management and Organisation (Practical, Master level, 2023-2025)
+  * Unternehmungsführung und Organisation (Übung, Master level, 2022-2026)
+  * General Management, Case Studies (Seminar, Master level, 2023-2025)
 
 ---
 
