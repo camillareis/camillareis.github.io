@@ -13,9 +13,9 @@ redirect_from:
 
 ## Education
 
-### Doctoral School Techno-Economics
+### Doctoral Studies Techno-Economics
   2022 - 2026 (expected) <br />
-  Doctoral Thesis: *The Role of Organizational Context on Technical Debt Management: A Multiple Case Study of Software Development Teams* at the [Institut of General Management and Organisation](https://www.tugraz.at/institute/ufo/home), TU Graz
+  Doctoral Thesis: *The Role of Organizational Context in Technical Debt Management: A Multiple Case Study of Software Development Teams* at the [Institut of General Management and Organisation](https://www.tugraz.at/institute/ufo/home), TU Graz
 
 ### Master Studies Sofwareengineering - Management
   2018 - 2021 | GPA 3.6, passed with distinction <br />
@@ -68,6 +68,7 @@ redirect_from:
 ## Further Development and Skills 
 
 ### Training and Certifications
+  * Systemic consulting and coaching as a complimentary skill
   * Agile and strategic management with OKR
   * Process-oriented Leadership of Groups and Teams
   * Intercultural Social Competence
@@ -88,7 +89,7 @@ redirect_from:
   * Agile Principles in New Product Development
   * Teamwork and Coordination
   * Intercultural Communication and Collaboration
-  * Student and Peer Mentoring
+  * Student Mentoring and Supervision
 
 ### Languages
   * German (native)
