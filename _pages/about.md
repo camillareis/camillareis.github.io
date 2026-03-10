@@ -17,5 +17,7 @@ Basically, it's teaching and research combined while working on a PhD.
 
 I co-teach lectures and seminars for undergraduate and MBA programs, assist with exams, and supervise Bachelor’s and Master’s theses at the Institute. For an overview what I teach, check out my [teaching page](https://camillareis.github.io/teaching/).
 
-In addition to teaching, I contribute to research projects, with a focus on **technology-based business models and circular business models, technology management, and organizational ambidexterity**. As a 3rd-year PhD candidate, I’m actively working on my dissertation. For more details, check out my teaching and research pages. If you're curious, take a look at my [research and publications page](https://camillareis.github.io/reserach-publications/).
+In addition to teaching, I contribute to research projects, with a focus on **technology-based business models and circular business models, technology management, and organizational ambidexterity**. But my disseration goes deeper into the topic of organizational context in technical debt management. Currently, I'm in my last PhD year and expect to graduate by the end of 2026. If you're curious, take a look at my [research and publications page](https://camillareis.github.io/reserach-publications/).
+
+Since you're already here, I'm happy to connect. 
 
